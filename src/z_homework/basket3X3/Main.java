@@ -12,6 +12,8 @@ System.out.println(" ____   ___   ___  ____      .______        ___           __
 		"                                      "
 		+ "                                                                                                     ");
 		System.out.println("캐릭터 생성을 위해 엔터키 입력 !");
+		System.out.println("캐릭터 생성을 위해 엔터키 입력 !");
+		System.out.println("캐릭터 생성을 위해 엔터키 입력 !");
 		@SuppressWarnings("unused")
 		String input = ScanUtil.nextLine();
 		
